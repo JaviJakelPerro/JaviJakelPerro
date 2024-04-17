@@ -1,22 +1,13 @@
 ### プレイヤー9 
-
 ![MasterHead](https://i.pinimg.com/originals/ae/39/8f/ae398f0764cbe88cfa2ecd07f9f63dd4.jpg)
 
-<div style="display: flex; justify-content: space-between;">
-    <img alt="Coding" width="400" src="https://media.giphy.com/media/4DKSJFF5u4f5iCaS5Y/giphy.gif?cid=ecf05e47c6j0py3tarmgdhwfdls5q3e34gvns6zoz0ibyqkr&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-    <img alt="Coding" width="400" src="https://media.giphy.com/media/dQfdCrmV8JardPXxXv/giphy.gif" style="margin-left: auto;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+    <img alt="Coding" width="400" src="https://media.giphy.com/media/4DKSJFF5u4f5iCaS5Y/giphy.gif?cid=ecf05e47c6j0py3tarmgdhwfdls5q3e34gvns6zoz0ibyqkr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="margin-right: 0;">
+    <img alt="Coding" width="400" src="https://media.giphy.com/media/QnEHSIucpaW8t64OHG/giphy.gif" style="margin-left: auto;">
 </div>
-<!--
-**JaviJakelPerro/JaviJakelPerro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
